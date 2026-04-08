@@ -11,7 +11,7 @@
 
 Physics undergraduate at **Universidad Nacional de Colombia**. Final semester. Thesis on **multi‑field quintessence**, how non‑geodesic trajectories in curved field spaces let steep potentials drive cosmic acceleration while dodging the de Sitter swampland conjecture.
 
-I build numerical tools to simulate cosmological dynamics, plus the occasional quantum tomography or astronomy pipeline. I read Akrami, Vafa, Maldacena like morning papers. Fine‑tuning is for people who gave up.
+I build numerical tools to simulate cosmological dynamics, plus the occasional quantum tomography or astronomy pipeline. Fine‑tuning is for people who gave up.
 
 ## Research & Code I actually ship 🚀
 
@@ -63,7 +63,7 @@ Click here: [![Repo](https://img.shields.io/badge/➡️_Code-qtom-blue)](https:
 
 **Numerical ODE solvers · Phase‑space analysis · Field‑space geometry · Aperture photometry · Quantum state reconstruction**
 
-## Non‑physics shit I also build 🖥️
+## Non‑physics projects I also build 🖥️
 
 - **Homelab** - because fuck Google Drive and subscription models. Local NAS, self‑hosted services (Tailscale, Jellyfin, the usual rabbit hole).
 - **Arch Linux daily driver** - I use Arch btw. (Yes, I'll mention it in every conversation.)
