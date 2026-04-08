@@ -24,7 +24,7 @@ Replicates phase‑space trajectories ($\omega_\phi$, $\Omega_\phi$) for power�
 - Power‑law metric $f(r)=r^p$ works for $p=2$, fails for $p=3$.
 - Verified $|\nabla V|/V \gtrsim \mathcal{O}(1)$ everywhere, no swampland violation.
 
-[![Repo](https://img.shields.io/badge/➡️_Code-multifield_cosmology_dynamics-blue)](https://github.com/alhazacod/multifield_cosmology_dynamics)
+Click here: [![Repo](https://img.shields.io/badge/➡️_Code-multifield_cosmology_dynamics-blue)](https://github.com/alhazacod/multifield_cosmology_dynamics)
 
 ---
 
@@ -34,7 +34,7 @@ Replicates phase‑space trajectories ($\omega_\phi$, $\Omega_\phi$) for power�
 Automated catalog from Gaia DR3, direct FFI downloads from MAST, aperture photometry with background subtraction, parallel processing, Lomb‑Scargle periodograms.
 **Why not just use Lightkurve?** Coltess gives you full control – custom apertures, faint targets, anything not in the TIC. When you need raw FFI photometry without black boxes.
 
-[![Repo](https://img.shields.io/badge/➡️_Code-coltess-blue)](https://github.com/alhazacod/coltess) [![PyPI](https://img.shields.io/badge/PyPI-not_yet-yellow)](https://pypi.org/)
+Click here: [![Repo](https://img.shields.io/badge/➡️_Code-coltess-blue)](https://github.com/alhazacod/coltess) [![PyPI](https://img.shields.io/badge/PyPI-not_yet-yellow)](https://pypi.org/)
 
 ---
 
@@ -43,7 +43,7 @@ Automated catalog from Gaia DR3, direct FFI downloads from MAST, aperture photom
 
 Implementation of Koutný et al. (2022). Maps measurement probabilities directly to physical density matrices via Cholesky decomposition. Architecture: 200→180→180→160→160→160→160→100 neurons, Nadam optimizer. Handles noise and finite statistics better than MLE.
 
-[![Repo](https://img.shields.io/badge/➡️_Code-qtom-blue)](https://github.com/alhazacod/qtom) [![PyPI](https://img.shields.io/badge/PyPI-package-blue)](https://pypi.org/project/qtom/)
+Click here: [![Repo](https://img.shields.io/badge/➡️_Code-qtom-blue)](https://github.com/alhazacod/qtom) [![PyPI](https://img.shields.io/badge/PyPI-package-blue)](https://pypi.org/project/qtom/)
 
 ---
 
