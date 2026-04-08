@@ -18,7 +18,7 @@ I build numerical tools to simulate cosmological dynamics, plus the occasional q
 ### 🔥 `multifield_cosmology_dynamics`
 *Python toolkit to reproduce background dynamics from Akrami et al. (2021)*
 
-Replicates phase‑space trajectories ($\omega_\phi$, $\Omega_\phi$) for power‑law and hyperbolic field‑space metrics, plus the swampland ratio $|\nabla$ V|/V$.
+Replicates phase‑space trajectories ($\omega_\phi$, $\Omega_\phi$) for power‑law and hyperbolic field‑space metrics, plus the swampland ratio $|\nabla V|/V$.
 **Key result from my thesis:**
 - Hyperbolic metric $f(r)=e^{\beta r}$ → $\omega_{\text{DE}}$ evolves from $>-1$ at high redshift toward $-1$ today (matches DESI hints).
 - Power‑law metric $f(r)=r^p$ works for $p=2$, fails for $p=3$.
@@ -81,6 +81,7 @@ Implementation of Koutný et al. (2022). Maps measurement probabilities directly
 ---
 
 "The universe is under no obligation to make sense to you."
+
 — Not me, but I feel it in my bones debugging ODEs at 2 AM.
 
 ---
